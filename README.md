@@ -1,4 +1,4 @@
-<p style="text-align: center;"><img src="https://github.com/OmerBhatti/omerbhatti/blob/main/img/header.png" ></p>
+<p style="text-align: center; width:50%; margin-left:auto; margin-right:auto;"><img src="https://github.com/OmerBhatti/omerbhatti/blob/main/img/header.png" ></p>
 
 <h2>ABOUT</h2>
 
@@ -13,6 +13,13 @@ I am a junior at [**PUCIT**](http://pucit.edu.pk) Lahore. I work on different we
 
 ----
 
+## Get in touch with me
+
+[![website](https://github.com/faatehsultan/faatehsultan/blob/master/assets/www.png)](http://omerbhatti.github.io)
+[![linkedin](https://github.com/faatehsultan/faatehsultan/blob/master/assets/linkedin.png)](https://www.linkedin.com/in/omerbhatti1/)
+[![instagram](https://github.com/faatehsultan/faatehsultan/blob/master/assets/instagram.png)](http://instagram.com/__omerbhatti__)
+
+----
 
 <!--
 **OmerBhatti/omerbhatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
