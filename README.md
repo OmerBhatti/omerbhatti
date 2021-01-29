@@ -43,4 +43,4 @@ I am a junior at [**PUCIT**](http://pucit.edu.pk) Lahore. I work on different we
 
 ----
 
-<span><img src="https://cdn.lowgif.com/full/e7e9dbd1da8bd449-.gif" width="100%" height="200px">
+<span><img src="https://github.com/OmerBhatti/omerbhatti/blob/main/wave.gif" width="100%" height="200px">
