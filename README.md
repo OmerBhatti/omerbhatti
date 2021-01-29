@@ -1,4 +1,4 @@
-<img src="https://github.com/OmerBhatti/omerbhatti/blob/main/img/header.png" >
+<img src="https://github.com/OmerBhatti/omerbhatti/blob/main/img/header.png" width="100%">
 
 <h2>About</h2>
 
