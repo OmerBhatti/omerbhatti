@@ -13,6 +13,7 @@ I am a junior at [**PUCIT**](http://pucit.edu.pk) Lahore. I work on different we
   <li>Data Science</li>
   <li>Game Development</li>
   <li>Problem Solving</li>
+  <li>Automation Scripting</li>
   <li>Designing</li>
 </ul>
   
