@@ -23,7 +23,7 @@ I am a junior at [**PUCIT**](http://pucit.edu.pk) Lahore. I work on different we
 [![website](https://github.com/faatehsultan/faatehsultan/blob/master/assets/www.png)](http://omerbhatti.github.io)
 [![linkedin](https://github.com/faatehsultan/faatehsultan/blob/master/assets/linkedin.png)](https://www.linkedin.com/in/omerbhatti1/)
 [![instagram](https://github.com/faatehsultan/faatehsultan/blob/master/assets/instagram.png)](http://instagram.com/__omerbhatti__)
-<span><a href="https://pixelmotion.itch.io"><img src="https://static.itch.io/images/itchio-textless-white.svg" height=64></a></span>
+<span><a href="https://pixelmotion.itch.io"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB47l67HXTyXq9bUkLwd1SjRvwsL6__zz6Jw&usqp=CAU" height=64></a></span>
 <span><a href="https://sketchfab.com/OmerBhatti"><img src="https://static.sketchfab.com/img/press/logos/logo.png" height=64></a></span>
 
 ----
