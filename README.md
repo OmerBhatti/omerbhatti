@@ -10,10 +10,10 @@ I am a junior at [**PUCIT**](http://pucit.edu.pk) Lahore. I work on different we
 <h3>Interests</h3>
 <ul>
   <li>Web Development</li>
+  <li>Automation, Scripting and SCRAPING</li>
+  <li>Problem Solving</li>
   <li>Data Science</li>
   <li>Game Development</li>
-  <li>Problem Solving</li>
-  <li>Automation Scripting</li>
   <li>Designing</li>
 </ul>
   
@@ -32,6 +32,7 @@ I am a junior at [**PUCIT**](http://pucit.edu.pk) Lahore. I work on different we
 <h3>Skills</h3>
 
 <span><img src="https://cdn.auth0.com/blog/react-js/react.png" height="64px"></span>
+<span><img src="https://pptr.dev/images/pptr.png" height="64px"></span>
 <span><img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="64px"></span>
 <span><img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" height="64px"></span>
 <span><img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" height="64px"></span>
