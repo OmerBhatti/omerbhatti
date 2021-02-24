@@ -45,4 +45,13 @@ I am a junior at [**PUCIT**](http://pucit.edu.pk) Lahore. I work on different we
 
 ----
 
+<h3>Teachers</h3>
+
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" height="74px"></span>
+<span><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png" height="44px"></span>
+<span><img src="https://cdn.freebiesupply.com/logos/large/2x/udemy-1-logo-png-transparent.png" height="44px"></span>
+<span><img src="https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/apple-touch-icon-v2-72x72.png" height="44px"></span>
+
+----
+
 <span><img src="https://github.com/OmerBhatti/omerbhatti/blob/main/wave.gif" width="100%" height="170px">
