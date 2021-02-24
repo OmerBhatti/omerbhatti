@@ -26,6 +26,7 @@ I am a junior at [**PUCIT**](http://pucit.edu.pk) Lahore. I work on different we
 [![instagram](https://github.com/faatehsultan/faatehsultan/blob/master/assets/instagram.png)](http://instagram.com/__omerbhatti__)
 <span><a href="https://pixelmotion.itch.io"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB47l67HXTyXq9bUkLwd1SjRvwsL6__zz6Jw&usqp=CAU" height=64></a></span>
 <span><a href="https://sketchfab.com/OmerBhatti"><img src="https://static.sketchfab.com/img/press/logos/logo.png" height=64></a></span>
+<span><a href="https://www.kaggle.com/omerbhatti34"><img src="https://www.kaggle.com/static/images/site-logo.png" height=44></a></span>
 
 ----
 
@@ -42,15 +43,6 @@ I am a junior at [**PUCIT**](http://pucit.edu.pk) Lahore. I work on different we
 <span><img src="https://i.pinimg.com/originals/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.png" height="64px"></span>
 <span><img src="https://pngimg.com/uploads/photoshop/photoshop_PNG12.png" height="64px"></span>
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Illustrator_CC_icon.png" height="64px"></span>
-
-----
-
-<h3>Teachers</h3>
-
-<span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" height="74px"></span>
-<span><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png" height="44px"></span>
-<span><img src="https://cdn.freebiesupply.com/logos/large/2x/udemy-1-logo-png-transparent.png" height="44px"></span>
-<span><img src="https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/apple-touch-icon-v2-72x72.png" height="44px"></span>
 
 ----
 
