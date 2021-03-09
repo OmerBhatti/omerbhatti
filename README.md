@@ -19,7 +19,7 @@ I am a junior at [**PUCIT**](http://pucit.edu.pk) Lahore. I work on different we
   
 ----
 
-<h3>Get in touch with me</h3>
+<h3>Links</h3>
 
 [![website](https://github.com/faatehsultan/faatehsultan/blob/master/assets/www.png)](http://omerbhatti.github.io)
 [![linkedin](https://github.com/faatehsultan/faatehsultan/blob/master/assets/linkedin.png)](https://www.linkedin.com/in/omerbhatti1/)
