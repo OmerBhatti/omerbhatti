@@ -27,7 +27,7 @@ I am a junior at [**PUCIT**](http://pucit.edu.pk) Lahore. I work on different we
 <span><a href="https://pixelmotion.itch.io"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB47l67HXTyXq9bUkLwd1SjRvwsL6__zz6Jw&usqp=CAU" height=64></a></span>
 <span><a href="https://sketchfab.com/OmerBhatti"><img src="https://static.sketchfab.com/img/press/logos/logo.png" height=64></a></span>
 <span><a href="https://www.kaggle.com/omerbhatti34"><img src="https://www.kaggle.com/static/images/site-logo.png" height=44></a></span>
-<span><a href="https://editor.p5js.org/OmerBhatti/sketches"><img src="https://miro.medium.com/max/300/1*h9G7gjWQeQVwqkbhHVvOQg.png" height=44></a></span>
+<span><a href="https://editor.p5js.org/OmerBhatti/sketches"><img src="https://miro.medium.com/max/300/1*h9G7gjWQeQVwqkbhHVvOQg.png" height=64></a></span>
 
 ----
 
