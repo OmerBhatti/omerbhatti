@@ -3,8 +3,8 @@
 <h2>About</h2>
 
 Hi, my name is *M Omer Sharif Bhatti*, a student developer from Pakistan. <br>
-I am a junior at [**PUCIT**](http://pucit.edu.pk) Lahore. I work on different web projects as a freelancer. You can contact me for queries regarding any project.
-
+I am a junior at [**PUCIT**](http://pucit.edu.pk) Lahore.I work on different web projects and scrapers as a freelancer. You can contact me for queries regarding any project.
+I love learning things on my own because Colleges focus more on theory.
 ----
 
 <h3>Interests</h3>
