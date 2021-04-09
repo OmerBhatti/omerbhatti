@@ -25,7 +25,7 @@ I am a junior at [**PUCIT**](http://pucit.edu.pk) Lahore. I work on different we
 [![linkedin](https://github.com/faatehsultan/faatehsultan/blob/master/assets/linkedin.png)](https://www.linkedin.com/in/omerbhatti1/)
 [![instagram](https://github.com/faatehsultan/faatehsultan/blob/master/assets/instagram.png)](http://instagram.com/__omerbhatti__)
 <span><a href="https://pixelmotion.itch.io"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB47l67HXTyXq9bUkLwd1SjRvwsL6__zz6Jw&usqp=CAU" height=64></a></span>
-<span><a href="https://sketchfab.com/OmerBhatti"><img src="https://static.sketchfab.com/img/press/logos/logo.png" height=64></a></span>
+<span><a href="https://sketchfab.com/OmerBhatti"><img src="https://static.sketchfab.com/static/builds/web/dist/static/assets/images/favicon/android-chrome-192x192-v2-1e910764ed1b5e9b99c272e4ce357c37.png" height=64></a></span>
 <span><a href="https://www.kaggle.com/omerbhatti34"><img src="https://www.kaggle.com/static/images/site-logo.png" height=44></a></span>
 <span><a href="https://editor.p5js.org/OmerBhatti/sketches"><img src="https://miro.medium.com/max/300/1*h9G7gjWQeQVwqkbhHVvOQg.png" height=64></a></span>
 
@@ -33,12 +33,11 @@ I am a junior at [**PUCIT**](http://pucit.edu.pk) Lahore. I work on different we
 
 <h3>Skills</h3>
 
+<span><img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="64px"></span>
 <span><img src="https://cdn.auth0.com/blog/react-js/react.png" height="64px"></span>
 <span><img src="https://pptr.dev/images/pptr.png" height="64px"></span>
-<span><img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="64px"></span>
-<span><img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" height="64px"></span>
-<span><img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" height="64px"></span>
 <span><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height="64px"></span>
+<span><img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" height="64px"></span>
 <span><img src="https://icon-library.com/images/unity-icon/unity-icon-5.jpg" height="64px"></span>
 <span><img src="https://iconarchive.com/download/i98223/dakirby309/simply-styled/Blender.ico" height="64px"></span>
 <span><img src="https://i.pinimg.com/originals/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.png" height="64px"></span>
