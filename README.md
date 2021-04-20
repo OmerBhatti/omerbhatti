@@ -8,8 +8,8 @@ I am a junior at [**PUCIT**](http://pucit.edu.pk) Lahore. I work on different we
 
 <h3>Interests</h3>
 <ul>
-  <li><Web Development/></li>
-  <li>Automation, Scripting and SCRAPING 🤖</li>
+  <li>Web Development</li>
+  <li>Automation 🤖, Scripting and SCRAPING</li>
   <li>Problem Solving</li>
   <li>Data Science 📈</li>
   <li>Game Development 🎮</li>
