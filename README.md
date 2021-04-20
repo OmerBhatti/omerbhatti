@@ -18,6 +18,15 @@ I am a junior at [**PUCIT**](http://pucit.edu.pk) Lahore. I work on different we
   
 ----
 
+<h3>Hobbies</h3>
+<ul>
+  <li>Learning New Skills</li>
+  <li>Book Reading</li>
+  <li>Watching Anime</li>
+</ul>
+
+----
+
 <h3>Links</h3>
 
 [![website](https://github.com/faatehsultan/faatehsultan/blob/master/assets/www.png)](http://omerbhatti.github.io)
