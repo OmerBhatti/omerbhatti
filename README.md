@@ -29,13 +29,13 @@ I am a junior at <a href="http://pucit.edu.pk">PUCIT</a> Lahore. I work on diffe
 
 <h3>Links</h3>
 
-[![website](https://github.com/faatehsultan/faatehsultan/blob/master/assets/www.png)](http://omerbhatti.github.io)
-[![linkedin](https://github.com/faatehsultan/faatehsultan/blob/master/assets/linkedin.png)](https://www.linkedin.com/in/omerbhatti1/)
-[![instagram](https://github.com/faatehsultan/faatehsultan/blob/master/assets/instagram.png)](http://instagram.com/__omerbhatti__)
-<span><a href="https://pixelmotion.itch.io"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB47l67HXTyXq9bUkLwd1SjRvwsL6__zz6Jw&usqp=CAU" height=64></a></span>
-<span><a href="https://sketchfab.com/OmerBhatti"><img src="https://static.sketchfab.com/static/builds/web/dist/static/assets/images/favicon/android-chrome-192x192-v2-1e910764ed1b5e9b99c272e4ce357c37.png" height=64></a></span>
-<span><a href="https://www.kaggle.com/omerbhatti34"><img src="https://www.kaggle.com/static/images/site-logo.png" height=44></a></span>
-<span><a href="https://editor.p5js.org/OmerBhatti/sketches"><img src="https://miro.medium.com/max/300/1*h9G7gjWQeQVwqkbhHVvOQg.png" height=64></a></span>
+<span><a target="_blank" href="http://omerbhatti.github.io"><img src="https://github.com/faatehsultan/faatehsultan/blob/master/assets/www.png" height=64></a></span>
+<span><a target="_blank" href="https://www.linkedin.com/in/omerbhatti1/"><img src="https://github.com/faatehsultan/faatehsultan/blob/master/assets/linkedin.png" height=64></a></span>
+<span><a target="_blank" href="http://instagram.com/__omerbhatti__o"><img src="https://github.com/faatehsultan/faatehsultan/blob/master/assets/instagram.png" height=64></a></span>
+<span><a target="_blank" href="https://pixelmotion.itch.io"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB47l67HXTyXq9bUkLwd1SjRvwsL6__zz6Jw&usqp=CAU" height=64></a></span>
+<span><a target="_blank" href="https://sketchfab.com/OmerBhatti"><img src="https://static.sketchfab.com/static/builds/web/dist/static/assets/images/favicon/android-chrome-192x192-v2-1e910764ed1b5e9b99c272e4ce357c37.png" height=64></a></span>
+<span><a target="_blank" href="https://www.kaggle.com/omerbhatti34"><img src="https://www.kaggle.com/static/images/site-logo.png" height=44></a></span>
+<span><a target="_blank" href="https://editor.p5js.org/OmerBhatti/sketches"><img src="https://miro.medium.com/max/300/1*h9G7gjWQeQVwqkbhHVvOQg.png" height=64></a></span>
 
 ----
 
