@@ -20,7 +20,10 @@ I am a junior at <a href="http://pucit.edu.pk">PUCIT</a> Lahore. I work on diffe
   
 ----
 
-![Bhatti's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerbhatti&theme=tokyonight&show_icons=true&hide_border=true)
+<div align="center">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=omerbhatti&theme=tokyonight&show_icons=true&hide_border=true"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerbhatti&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
 ----
 
