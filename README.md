@@ -64,4 +64,9 @@ I am a junior at <a href="http://pucit.edu.pk">PUCIT</a> Lahore. I work on diffe
 
 ----
 
+> 2 Minute ka kam ha. Bas ek API call hi to karni ha
+> ~ Omer Bhatti
+
+----
+
 <span><img src="https://github.com/OmerBhatti/omerbhatti/blob/main/wave.gif" width="100%" height="170px">
