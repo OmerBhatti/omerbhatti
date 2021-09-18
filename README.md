@@ -25,7 +25,7 @@ I am a junior at <a href="http://pucit.edu.pk">PUCIT</a> Lahore. I work on diffe
 
 <div align="center">
   <img height="195" src="https://github-readme-stats.vercel.app/api?username=omerbhatti&theme=tokyonight&show_icons=true&hide_border=true" width="400px"/>
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerbhatti&layout=compact&theme=tokyonight&hide_border=true" width="335px"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmerBhatti&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="335px"/>
 </div>
 
 ----
