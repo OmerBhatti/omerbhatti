@@ -6,6 +6,9 @@
   Hi, my name is <b>M Omer Sharif Bhatti</b>, a student developer from Pakistan. <br>
 I am a junior at <a href="http://pucit.edu.pk">PUCIT</a> Lahore. I work on different web projects as a freelancer. You can contact me for queries regarding any project.
 </span>
+</br>
+</br>
+<b>"2 Minute ka kam ha. Bas ek API call hi to karni ha"</b>
 
 ----
 
@@ -62,8 +65,6 @@ I am a junior at <a href="http://pucit.edu.pk">PUCIT</a> Lahore. I work on diffe
   <li>Watching Anime✨</li>
 </ul>
 
-
-> 2 Minute ka kam ha. Bas ek API call hi to karni ha
-> ~ Omer Bhatti
+----
 
 <span><img src="https://github.com/OmerBhatti/omerbhatti/blob/main/wave.gif" width="100%" height="170px">
