@@ -45,10 +45,10 @@ I am a Senior Student (7th Semester) at <a href="http://pucit.edu.pk">PUCIT</a> 
 <h3>Skills</h3>
 
 <span><img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="64px"></span>
+<span><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height="64px"></span>
 <span><img src="https://cdn.auth0.com/blog/react-js/react.png" height="64px"></span>
 <span><img src="https://pptr.dev/images/pptr.png" height="64px"></span>
 <span><img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" height="64px"></span>
-<span><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height="64px"></span>
 <span><img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" height="64px"></span>
 <span><img src="https://icon-library.com/images/unity-icon/unity-icon-5.jpg" height="64px"></span>
 <span><img src="https://iconarchive.com/download/i98223/dakirby309/simply-styled/Blender.ico" height="64px"></span>
