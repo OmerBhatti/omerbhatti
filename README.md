@@ -14,7 +14,7 @@ I am a Senior Student (7th Semester) at <a href="http://pucit.edu.pk">PUCIT</a> 
 
 <h3>Interests</h3>
 <ul>
-  <li>Web Development (React , Wordpress)</li>
+  <li>Web Development (React (MERN), Flask, Wordpress)</li>
   <li>Automation 🤖, Scripting and Scraping</li>
   <li>Problem Solving</li>
   <li>Game Development 🎮</li>
