@@ -17,7 +17,6 @@ I graduated from <a href="http://pucit.edu.pk">PUCIT</a> Lahore in 2022. I work 
   <li>Full Stack Developer (MERN, Flask, Wordpress, Django)</li>
   <li>Automation 🤖, Scripting and Scraping</li>
   <li>Problem Solving</li>
-  <li>Game Development 🎮 Hobby</li>
   <li>Designing 🎨</li>
 </ul>
   
@@ -60,7 +59,9 @@ I graduated from <a href="http://pucit.edu.pk">PUCIT</a> Lahore in 2022. I work 
 <h3>Hobbies</h3>
 <ul>
   <li>Learning New Skills 🤓</li>
-  <li>Book Reading </li>
+  <li>Video Games</li>
+  <li>Game Development</li>
+  <li>Manga Reading </li>
   <li>Watching Anime✨</li>
 </ul>
 
