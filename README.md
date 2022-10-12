@@ -3,8 +3,8 @@
 <h2>About</h2>
 
 <span>
-  Hi, my name is <b>M Omer Sharif Bhatti</b>, a student developer from Pakistan. <br>
-I am a Senior Student (7th Semester) at <a href="http://pucit.edu.pk">PUCIT</a> Lahore. I work on different web projects as a freelancer. You can contact me for queries regarding any project.
+  Hi, my name is <b>M Omer Sharif Bhatti</b>, i am a Software Engineer from Pakistan. <br>
+I graduated from <a href="http://pucit.edu.pk">PUCIT</a> Lahore in 2022. I work fulltime at @Arbisoft
 </span>
 </br>
 </br>
@@ -14,10 +14,10 @@ I am a Senior Student (7th Semester) at <a href="http://pucit.edu.pk">PUCIT</a> 
 
 <h3>Interests</h3>
 <ul>
-  <li>Web Development (React (MERN), Flask, Wordpress)</li>
+  <li>Full Stack Developer (MERN, Flask, Wordpress, Django)</li>
   <li>Automation 🤖, Scripting and Scraping</li>
   <li>Problem Solving</li>
-  <li>Game Development 🎮</li>
+  <li>Game Development 🎮 Hobby</li>
   <li>Designing 🎨</li>
 </ul>
   
@@ -47,7 +47,6 @@ I am a Senior Student (7th Semester) at <a href="http://pucit.edu.pk">PUCIT</a> 
 <span><img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="64px"></span>
 <span><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height="64px"></span>
 <span><img src="https://cdn.auth0.com/blog/react-js/react.png" height="64px"></span>
-<span><img src="https://pptr.dev/images/pptr.png" height="64px"></span>
 <span><img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" height="64px"></span>
 <span><img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" height="64px"></span>
 <span><img src="https://icon-library.com/images/unity-icon/unity-icon-5.jpg" height="64px"></span>
