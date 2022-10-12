@@ -3,8 +3,8 @@
 <h2>About</h2>
 
 <span>
-  Hi, my name is <b>M Omer Sharif Bhatti</b>, i am a Software Engineer from Pakistan. <br>
-I graduated from <a href="http://pucit.edu.pk">PUCIT</a> Lahore in 2022. I work fulltime at @Arbisoft
+  Hi, my name is <b>M Omer Sharif Bhatti</b>, I am a Software Engineer from Pakistan at @Arbisoft. <br>
+  I graduated from <a href="http://pucit.edu.pk">PUCIT</a> Lahore in 2022.
 </span>
 </br>
 </br>
