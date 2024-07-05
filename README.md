@@ -19,15 +19,7 @@
   <li>Problem Solving</li>
   <li>Designing 🎨</li>
 </ul>
-  
-----
 
-<div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=omerbhatti&theme=tokyonight&show_icons=true&hide_border=true&hide=issues" width="400px"/>
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmerBhatti&layout=compact&langs_count=4&theme=tokyonight&hide_border=true&hide=java,html" width="335px"/>
-</div>
-
-----
 
 <h3>Links</h3>
 
@@ -49,7 +41,7 @@
 <span><img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" height="64px"></span>
 <span><img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" height="64px"></span>
 <span><img src="https://icon-library.com/images/unity-icon/unity-icon-5.jpg" height="64px"></span>
-<span><img src="https://iconarchive.com/download/i98223/dakirby309/simply-styled/Blender.ico" height="64px"></span>
+<span><img src="https://static-00.iconduck.com/assets.00/django-original-icon-2048x874-iws4p6y8.png" height="64px"></span>
 <span><img src="https://i.pinimg.com/originals/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.png" height="64px"></span>
 <span><img src="https://pngimg.com/uploads/photoshop/photoshop_PNG12.png" height="64px"></span>
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Illustrator_CC_icon.png" height="64px"></span>
