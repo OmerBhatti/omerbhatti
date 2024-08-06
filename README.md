@@ -3,18 +3,16 @@
 <h2>About</h2>
 
 <span>
-  Hi, my name is <b>M Omer Sharif Bhatti</b>, I am a Software Engineer from Pakistan at @Arbisoft. <br>
+  Hi, my name is <b>M Omer Sharif Bhatti</b>, I am a FullStack Developer, Open Source Contributor and a quick learner <br>
   I graduated from <a href="http://pucit.edu.pk">PUCIT</a> Lahore in 2022.
 </span>
 </br>
-</br>
-<b>"2 Minute ka kam ha. Bas ek API call hi to karni ha"</b>
 
 ----
 
 <h3>Interests</h3>
 <ul>
-  <li>Full Stack Developer (MERN, Flask, Wordpress, Django)</li>
+  <li>Full Stack Developer (Django, React, Node, Flask, Wordpress)</li>
   <li>Automation 🤖, Scripting and Scraping</li>
   <li>Problem Solving</li>
   <li>Designing 🎨</li>
@@ -51,6 +49,7 @@
 <h3>Hobbies</h3>
 <ul>
   <li>Learning New Skills 🤓</li>
+  <li>Open Source Contributions</li>
   <li>Video Games</li>
   <li>Game Development</li>
   <li>Manga Reading </li>
