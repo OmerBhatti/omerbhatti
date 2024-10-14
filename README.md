@@ -1,6 +1,6 @@
 <img align="center" src="https://github.com/OmerBhatti/omerbhatti/blob/main/header.png" width="100%">
 
-<h2>About</h2>
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <span>
   Hi, my name is <b>M Omer Sharif Bhatti</b>, I am a FullStack Developer, Open Source Contributor and a quick learner <br>
@@ -10,14 +10,16 @@
 
 ----
 
-<h3>Interests</h3>
-<ul>
-  <li>Full Stack Developer (Django, React, Node, Flask, Wordpress)</li>
-  <li>Automation 🤖, Scripting and Scraping</li>
-  <li>Problem Solving</li>
-  <li>Designing 🎨</li>
-</ul>
+### &#x1f4c8; GitHub Stats
 
+<a href="https://github.com/omerbhatti/omerbhatti">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omerbhatti&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a> 
+<a href="https://github.com/omerbhatti/omerbhatti">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerbhatti&hide=java,html,C++,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
+----
 
 <h3>Links</h3>
 
