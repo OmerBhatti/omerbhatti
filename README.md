@@ -56,8 +56,6 @@
   <li>Open Source Contributions</li>
   <li>Video Games</li>
   <li>Game Development</li>
-  <li>Manga Reading </li>
-  <li>Watching Anime✨</li>
 </ul>
 
 ----
