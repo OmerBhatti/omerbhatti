@@ -3,8 +3,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <span>
-  Hi, my name is <b>M Omer Sharif Bhatti</b>, I am a FullStack Developer, Open Source Contributor and a quick learner <br>
-  I graduated from <a href="http://pucit.edu.pk">PUCIT</a> Lahore in 2022.
+Full-stack developer passionate about building scalable, real-world products. Focused on backend systems, APIs, and clean, maintainable architecture. Always learning, experimenting with new technologies, and shipping impactful solutions.
 </span>
 </br>
 
