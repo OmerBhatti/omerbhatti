@@ -21,7 +21,7 @@
 
 ### 🙋‍♂️ About Me
 
-<img align="right" alt="Coding GIF" width="300" src="https://cdn.dribbble.com/userupload/20859960/file/original-231231b6d00d69fcb70d9e5e7420de97.gif" />
+<img align="right" alt="Coding GIF" width="380" src="https://cdn.dribbble.com/userupload/20859960/file/original-231231b6d00d69fcb70d9e5e7420de97.gif" />
 <!-- <img align="right" alt="Coding GIF" height="250" src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp" /> -->
 
   
