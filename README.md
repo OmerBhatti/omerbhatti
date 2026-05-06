@@ -114,32 +114,9 @@
 
 ---
 
-### 📈 GitHub Contribution Graph
-
 <div align="center">
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omerbhatti&bg_color=0c1117&color=ffffff&line=0D57FF&point=0D57FF&area=true&hide_border=true)](https://github.com/omerbhatti)
-
-</div>
-
----
-
-### 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://omerbhatti.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/omerbhatti1/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/OmerBhatti" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:omerbhatti34@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
 
 </div>
 
@@ -158,5 +135,25 @@
 ⭐ *If you found my work helpful, please consider starring my repositories — it truly means a lot!* ⭐
 
 </div>
+
+---
+
+<div align="center">
+
+<a href="https://omerbhatti.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/omerbhatti1/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/OmerBhatti" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:omerbhatti34@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+</div>
+
 
 <span><img src="https://github.com/OmerBhatti/omerbhatti/blob/main/wave.gif" width="100%" height="170px">
