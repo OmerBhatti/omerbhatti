@@ -118,7 +118,7 @@
 
 <div align="center">
 
-[![Omer's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OmerBhatti&theme=tokyo-night&hide_border=true&area=true&area_color=38BDF8&color=38BDF8&line=38BDF8&point=ffffff&custom_title=Omer%27s%20Contribution%20Activity)](https://github.com/OmerBhatti)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omerbhatti&bg_color=0c1117&color=ffffff&line=39bdf8&point=FFFFFF&area=true&hide_border=true)](https://github.com/omerbhatti)
 
 </div>
 
