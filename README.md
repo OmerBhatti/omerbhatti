@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=color=0:1A1B27,50:232438,100:2D2E49&text=Omer%20Bhatti&textBg=false&fontColor=39BDF8&fontSize=64&animation=fadeIn&desc=Senior%20Full%20Stack%20Engineer%20|%20Django,%20React%20|%20ScalableSaaS%20&%20Al%20Automations&descAlignY=52&fontAlignY=31&section=header&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=color=0:9B8EFF,50:B5ABFF,100:CFC8FF&text=Omer%20Bhatti&textBg=false&fontColor=0C1117&fontSize=64&animation=fadeIn&desc=Senior%20Full%20Stack%20Engineer%20|%20Django,%20React%20|%20ScalableSaaS%20&%20Al%20Automations&descAlignY=52&fontAlignY=31&section=header&descSize=18" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=39BDF8&center=true&vCenter=true&multiline=false&random=false&width=650&height=50&lines=👋+Hello+World!+I'm+Omer+Bhatti;💻+Senior+Software+Engineer+from+Pakistan+🇵🇰;🚀+Building+Scalable+SaaS+%26+AI+Agents;⚡+Python+%7C+Django+%7C+React+%7C+OpenAI;🤖+Voice+AI+%7C+Web+Scraping+%7C+Full-Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&random=false&width=650&height=50&lines=👋+Hello+World!+I'm+Omer+Bhatti;💻+Senior+Software+Engineer+from+Pakistan+🇵🇰;🚀+Building+Scalable+SaaS+%26+AI+Agents;⚡+Python+%7C+Django+%7C+React+%7C+OpenAI;🤖+Voice+AI+%7C+Web+Scraping+%7C+Full-Stack)](https://git.io/typing-svg)
 
 <br/>
 
@@ -31,7 +31,7 @@
 - 🛠️ Passionate about clean architecture, performance optimisation, and mentoring engineers  
 - 📦 Published multiple open‑source **NPM & PyPI packages** used by the community  
 - 🎮 Also love 3D web, game dev, and tinkering with new tools  
-- 📫 Reach me: **omerbhatti34@gmail.com** *(replace with your real email)*  
+- 📫 Reach me: **omerbhatti34@gmail.com**
 - ⚡ Fun Fact: I’ve scraped data from over **100,000 websites** to train chatbots!
 
 <br/>
